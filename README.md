@@ -7,4 +7,12 @@ The Loan Approval Prediction App leverages historical loan data to provide insig
 
 ## Features 
 
-- Interactive Interface: 
+- #### Interactive Interface:
+  Users can enter their personal and financial details (e.g., gender, marital status, income, loan amount, etc.) through a user-friendly interface.
+- #### Real-Time Predictions:  
+  The app predicts loan approval status instantly using a trained Logistic Regression model (or your chosen model).
+- #### Advanced Data Transformation: 
+  Features like Total Income, Monthly Instalment, and Income After Loan are computed on the fly, with logarithmic transformations applied for improved model performance.
+- #### Error Handling:
+  The app includes robust error handling to manage invalid inputs and edge cases.
+
