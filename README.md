@@ -16,3 +16,15 @@ The Loan Approval Prediction App leverages historical loan data to provide insig
 - #### Error Handling:
   The app includes robust error handling to manage invalid inputs and edge cases.
 
+## Tech Stack
+
+- Python
+
+- Streamlit
+
+- Scikit-learn
+
+- Pandas & NumPy
+
+- Joblib (for model serialization)
+
