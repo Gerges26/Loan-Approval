@@ -28,3 +28,19 @@ The Loan Approval Prediction App leverages historical loan data to provide insig
 
 - **Joblib (for model serialization)**
 
+## Deployment
+This app is also deployed on Streamlit Cloud. You can access the live version here.
+(https://loan-approval-8hw6bce9daguyvdsnvidxb.streamlit.app/)
+
+## Model Tuning and Performance
+The project includes hyperparameter tuning using GridSearchCV to optimize the Logistic Regression model. The app is designed to generalize well on unseen data by implementing proper feature engineering and data preprocessing steps. 
+
+## Future Improvements
+- Integration of additional models for ensemble predictions.
+
+- Enhanced visualization of feature importance and model insights.
+
+- User authentication and data persistence for repeated predictions.
+
+
+
