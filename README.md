@@ -18,7 +18,7 @@ The Loan Approval Prediction App leverages historical loan data to provide insig
 
 ## Tech Stack
 
-- Python
+- *Python*
 
 - Streamlit
 
