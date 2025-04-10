@@ -1,5 +1,5 @@
 #  Loan Approval Prediction App
-A machine learning-powered web application that predicts whether a loan application will be approved based on applicant and financial details. This app is built with *Streamlit* for an interactive interface and uses a trained model to deliver real-time predictions. 
+A machine learning-powered web application that predicts whether a loan application will be approved based on applicant and financial details. This app is built with **Streamlit** for an interactive interface and uses a trained model to deliver real-time predictions. 
 
 ## Overview
 
@@ -18,13 +18,13 @@ The Loan Approval Prediction App leverages historical loan data to provide insig
 
 ## Tech Stack
 
-- *Python*
+- **Python**
 
-- Streamlit
+- **Streamlit**
 
-- Scikit-learn
+- **Scikit-learn**
 
-- Pandas & NumPy
+- **Pandas & NumPy**
 
-- Joblib (for model serialization)
+- **Joblib (for model serialization)**
 
